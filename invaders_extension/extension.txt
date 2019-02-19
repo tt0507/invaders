@@ -1,0 +1,16 @@
+Extension 1:
+
+Adding sound-effect to the game.
+
+The first extension of the game is to implement sound into Space Invaders. The sound
+effect occurs when either the alien is destroyed or the ship is destroyed. The player
+will also have the option to turn the music on and off. If the player pressed the 'n' key
+the sound effect will turn on. If 'm' is pressed, it will be turnt off.
+
+Extension 2:
+
+Keeping track of score.
+
+The second extension of the game is to include a scoreboard in the game. Each picture of the
+aliens are assigned a certain amount of point: 10 point, 20 point, 30 point. The aliens that are 
+placed further have higher points.
